@@ -12,6 +12,7 @@ The problem statement comes from trying to test the following hypothesis. And an
 
 ## Problem Statement & Hypothesis
 The **United Nations Geoscheme** divides the world into regions and sub-regions. 
+
 This assignment is for statistical convenience and does not imply any assumption regarding political or other affiliation of countries or territories.
 
 Africa has 5 regions:
@@ -75,16 +76,12 @@ Serves as a proxy for military strength. This ignores international alliances.
 Values in the dataset sourced are in USD Millions.
 
 ## References And Research
-1. The UN Geoscheme: [File](https://www.emiw.org/fileadmin/emiw/UserActivityDocs/Geograph.Representation/Geographic-Representation-Appendix_1.pdf)
+1. [The UN Geoscheme](https://www.emiw.org/fileadmin/emiw/UserActivityDocs/Geograph.Representation/Geographic-Representation-Appendix_1.pdf)
 2. Regions in Africa: [World Atlas](https://www.worldatlas.com/geography/regions-of-africa.html)
 3. List of Future Election Years: [Election Calendar](https://www.eisa.org/election-calendar/)
-4. Population in Africa: [Numbers](https://www.worldometers.info/population/countries-in-africa-by-population/)
+4. [Population in Africa](https://www.worldometers.info/population/countries-in-africa-by-population/)
 5. Military Spending: [SIPRI Military Expenditure Database](https://milex.sipri.org/sipri)
 6. Forex Rates:
     Data extracted here was for the duration 2013 - 16th February 2024.
-        [Algerian Dinar](https://www.bank-of-algeria.dz/donnees-historiques/)
-        [Egyptian Pound](https://www.cbe.org.eg/en/markets/foreign-exchange/foreign-exchange-historical-data)
-        [Libyan Dinar](https://www.investing.com/currencies/usd-lyd-historical-data)
-        [Moroccan Dirham](https://www.investing.com/currencies/usd-mad-historical-data)
-        [Sudanese Pound](https://www.investing.com/currencies/usd-sdg-historical-data)
-        
+    [Yahoo Finance](https://finance.yahoo.com/currencies/)
+    [Investing](https://www.investing.com/currencies/)
