@@ -75,6 +75,9 @@ Time span: 10 years.
 Serves as a proxy for military strength. This ignores international alliances.
 Values in the dataset sourced are in USD Millions.
 
+#### Note
+Other metrics may have been used in the analysis.
+
 ## References And Research
 1. [The UN Geoscheme](https://www.emiw.org/fileadmin/emiw/UserActivityDocs/Geograph.Representation/Geographic-Representation-Appendix_1.pdf)
 2. Regions in Africa: [World Atlas](https://www.worldatlas.com/geography/regions-of-africa.html)
@@ -85,3 +88,5 @@ Values in the dataset sourced are in USD Millions.
     Data extracted here was for the duration 2013 - 16th February 2024.
     [Yahoo Finance](https://finance.yahoo.com/currencies/)
     [Investing](https://www.investing.com/currencies/)
+7. Debt to GDP, GDP and Inflation: [IMF](https://www.imf.org/external/datamapper/GGXWDG_GDP@AFRREO/SSA/OEXP/OIMP/COM)
+8. Inflation: [Macrotrends](https://www.macrotrends.net)
