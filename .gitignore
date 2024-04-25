@@ -161,6 +161,16 @@ cython_debug/
 
 # Data files
 data/
+*.xlsx
 
 # Power BI files
 *.pbix
+
+# Python files
+*.ipynb
+
+# Media files
+*.pdf
+*.png
+*.pptx
+*.mp4
