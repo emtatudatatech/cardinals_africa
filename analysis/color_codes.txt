@@ -1,0 +1,5 @@
+Brown: #d6a45c, #F6C47C
+Red: #a52a2a
+
+Green: #1AAB40
+Indicator red: #D64554
