@@ -161,6 +161,7 @@ cython_debug/
 
 # Data files
 data/
+analysis/
 *.xlsx
 
 # Power BI files
